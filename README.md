@@ -15,4 +15,4 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with interesting projects in ML and Robotics
 - 💬 Ask me about CAD modelling, robots and CS algorithms
-- 📫 How to reach me: Linkedin: pradyumn824
+- 📫 How to reach me: Linkedin: pradyai
