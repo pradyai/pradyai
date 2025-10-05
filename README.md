@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Vision-Language-Action Models
+- 🔭 I’m currently working on Vision-Language-Action Models and RL Algorithms 
 - 🌱 I’m currently pursuing my MS in Robotic Systems at RWTH Aachen
 - 👯 I’m looking to collaborate on open source projects in Robotics/CV/RL
 - 🤔 I’m looking for help with interesting projects in ML and Robotics
